@@ -10,7 +10,7 @@
 <p>Born and raised in Melbourne Australia! I graduated from high school VCE in 2018 and am currently undertaking a Bachelor of Science (Biology) at the Royal Melbourne Institute of Technology </p>
 <p> Interesting Fact! If you cannot find me on campus or at the gym, you can find me reading comic books or collecting rare Australian coins! (Coin collectors are called Numismatists) </p>
 
-<img src="Photos/RMIT.jpg" width="200" height="100"/>
+<img src="images/RMIT.jpg" width="200" height="100"/>
 
 
 <h2> Interest in IT </h2>
@@ -27,20 +27,20 @@
 Link to my dream job
 </a>
 <br>
-<img src="Photos/Biology Teacher.png" width="500" height="600"/>
+<img src="images/Biology Teacher.png" width="500" height="600"/>
 <h2> Personal Info </h2>
 <p>Below are some of the results I have done for some personal tests in regards to my personality/learning style/and leadership type </p>
 <p> <b> Myers-Brigss test result </b> </p>
-<img src="Photos/MyersBriggs.png"/>
+<img src="images/MyersBriggs.png"/>
 <p> <b> Learning Style Test </b> </p>
-<img src="Photos/LearningStyle.png"/>
+<img src="images/LearningStyle.png"/>
 <br>
 <a href="https://personalitymax.com/learning-styles/">
 Link to learning style test
 </a>
 <br>
 <p> <b> Leadership style test </b> </p>
-<img src="Photos/LeadingStyle.png"/>
+<img src="images/LeadingStyle.png"/>
 <br> 
 <a href="https://eml.usc.edu/leadership-style-quiz">
 Link to Leading style test
