@@ -3,7 +3,7 @@
 <p>RMIT Student Number:   s3785307</p>
 <p>Student Email Address: s3785307@student.rmit.edu.au</p>
 
-<img src="Photos/Christmas.jpg" alt="My friends and I (center) at christmas" width="400" height="250"/>
+<img src="images/Christmas.jpg" alt="My friends and I (center) at christmas" width="400" height="250"/>
 <p> A picture of my friends and I (center) celebrating Christmas! </p>
 
 <h2>A bit about me</h2>
