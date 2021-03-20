@@ -10,7 +10,7 @@
 <p>Born and raised in Melbourne Australia! I graduated from high school VCE in 2018 and am currently undertaking a Bachelor of Science (Biology) at the Royal Melbourne Institute of Technology </p>
 <p> Interesting Fact! If you cannot find me on campus or at the gym, you can find me reading comic books or collecting rare Australian coins! (Coin collectors are called Numismatists) </p>
 
-<img align="right" src="images/RMIT.jpg" width="200" height="100"/>
+<img src="images/RMIT.jpg" width="200" height="100"/>
 
 <h2> Interest in IT </h2>
 <p> <b> What is your Interest in IT? </b>Was there any particular event or person that sparked your interest? Outline your IT experience: My best friend Edward is studying computer science, through it he does lots of interesting things like designing apps and editing software, I thought it looked like a fun idea, but a practical application of that seemed to lie in IT. I actually have 0 experience in IT, hence why I am taking this elective! </p>
