@@ -59,7 +59,7 @@ Link to Leading style test
 <p> The motivation behind a project like this comes from a lack of a centralized database like this out there (that I know of!). Every type of Wikipedia or reading list I have tried to access simply doesn’t have the information I need in order to find the next comic book I want to read, and while some work for small parts, there is no centralized place for me to look for sequels, or tie-ins that I would be interested in. And so, by creating a comic book database, comic book fans and collectors can increase their library, and be able to tick off lists of do or don’t have. And it can show a good place for people to start who are new to comic books </p>
 <h2> Description </h2>
 <p> The project should be held as an app or could be done on a website (the two of which could sync up and be used together). The overview would be a very clean UI and simple, identifying the main sections
-<br>-Search 
+<br>-Search <img src="images/GoldenAge.jpg" width="100" style="float:right;">
 <br>-Publishers (DC, Marvel, etc)
 <br>-Authors
 <br>-Ages (“Golden Age”, “Silver Age” etc) 
