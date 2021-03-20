@@ -1,9 +1,3 @@
-<html>
-<head>
-<title> My Profile</title>
-</head>
-<body>
-
 <h1> Introduction</h1>
 <p>Name:                  Gabriel Duke</p>
 <p>RMIT Student Number:   s3785307</p>
