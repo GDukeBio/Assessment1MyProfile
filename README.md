@@ -79,6 +79,6 @@ Link to Leading style test
 <h2 style="color:DarkRed;"> Outcome </h2>
 <p> If this project is successful, it will have a positive outcome for comic book readers. Anecdotally, I find it really hard to know what comic to read next, as the industry is always updating and changing things, so a timeline would help me, and other comic fans know exactly what’s next and help us to know what we need to read from other authors in order to understand what we will read in the future. It will also help comic book readers to connect with their local shops. Too often do people buy their comics online, and the stores are left with no culture. So, if this project is a success, good things to come for the comic book industry all around for consumers, and producers!</p>
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+<div class="text-blue mb-2">
+  .text-blue on white
 </div>
