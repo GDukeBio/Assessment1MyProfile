@@ -78,7 +78,3 @@ Link to Leading style test
 <p> The skills required would be HTML and some form of app building language like JavaScript. I am unsure what is required to link the two of them together as I have zero experience in coding, but it can be done. Finding the skills required would be relatively easy as I could hire someone with the skills to build it. The required hardware would be a computer for writing the code, and a server to store it all on. Internet would be required to gather the information for the comics, their release dates, authors etc. </p>
 <h2 style="color:DarkRed;"> Outcome </h2>
 <p> If this project is successful, it will have a positive outcome for comic book readers. Anecdotally, I find it really hard to know what comic to read next, as the industry is always updating and changing things, so a timeline would help me, and other comic fans know exactly what’s next and help us to know what we need to read from other authors in order to understand what we will read in the future. It will also help comic book readers to connect with their local shops. Too often do people buy their comics online, and the stores are left with no culture. So, if this project is a success, good things to come for the comic book industry all around for consumers, and producers!</p>
-
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
