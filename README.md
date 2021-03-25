@@ -4,7 +4,7 @@
 <p>Student Email Address: s3785307@student.rmit.edu.au</p>
 
 <img src="images/Christmas.jpg" alt="My friends and I (center) at christmas" width="400" height="250"/>
-<p> A picture of my friends and I (center) celebrating Christmas! </p>
+<p> A picture of my friends and I (centre) celebrating Christmas! </p>
 
 <h2>A bit about me</h2>
 <p>Born and raised in Melbourne Australia! I graduated from high school VCE in 2018 and am currently undertaking a Bachelor of Science (Biology) at the Royal Melbourne Institute of Technology </p>
