@@ -65,9 +65,13 @@ Link to Leading style test
 <br>-Ages (“Golden Age”, “Silver Age” etc) 
 <br>-Characters
 <br>-Profile
-<br>-Stores near me
-<br>Upon choosing a section, it would take the user to another page which would provide further information, for all sections other than Profile and stores near me, the user will be able to find a specific comic, and it would lead them to a reading list of what comes next, what came before it, who wrote it, who drew it, etc. The information is not designed to be a Wikipedia page, it will not contain an in-depth synopsis of plot, but instead just the blurb included on the physical comics, in order to show readers what the book is about.
+<br>-Stores near me </p>
+<p>
+<br>
+Upon choosing a section, it would take the user to another page which would provide further information, for all sections other than Profile and stores near me, the user will be able to find a specific comic, and it would lead them to a reading list of what comes next, what came before it, who wrote it, who drew it, etc. The information is not designed to be a Wikipedia page, it will not contain an in-depth synopsis of plot, but instead just the blurb included on the physical comics, in order to show readers what the book is about.</p>
+<p> 
 <br> When clicking on the profile button, it will take the user to their personal account page that would display their personal library that they can update, add a reading list, and be shown recommended comics that would relate to their current reading trends.
+</p>
 <br>The “stores near me” link, would show users where comic book dealers in their neighborhood are and provide basic details about that store (address, store hours, etc), this could all be done by incorporating google maps or bing maps, or another map service, rather than building our own for the project.
 <br>The Authors page will provide links to all of that authors works, along with a short bio to be referenced from Wikipedia.
 <br>The Characters page will include both comic book heroes and villains and will provide a detailed list of where they appear throughout the comic book universe.
