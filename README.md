@@ -72,11 +72,23 @@ Upon choosing a section, it would take the user to another page which would prov
 <p> 
 <br> When clicking on the profile button, it will take the user to their personal account page that would display their personal library that they can update, add a reading list, and be shown recommended comics that would relate to their current reading trends.
 </p>
-<br>The “stores near me” link, would show users where comic book dealers in their neighborhood are and provide basic details about that store (address, store hours, etc), this could all be done by incorporating google maps or bing maps, or another map service, rather than building our own for the project.
+<p>
+<br>
+The “stores near me” link, would show users where comic book dealers in their neighborhood are and provide basic details about that store (address, store hours, etc), this could all be done by incorporating google maps or bing maps, or another map service, rather than building our own for the project.
+</p>
+<p>
 <br>The Authors page will provide links to all of that authors works, along with a short bio to be referenced from Wikipedia.
+</p>
+<p>
 <br>The Characters page will include both comic book heroes and villains and will provide a detailed list of where they appear throughout the comic book universe.
-<br>It comic pages individually should also state whether the comics are ‘’in print’’ (meaning they are still being made) or if they are no longer ‘’in print’’. This should prepare and help comic book readers to know if their regular shop will be able to order it in, or if they will need to hunt especially for the rare comics.
-<br>The website will also include a coming soon tab, to show which comics that the user has been reading, will be coming out soon, which will allow users to prepare, pre order, or by in store new comics from the ones they find on the map locally. Doing this will add business and relativity to use the project regularly as opposed to once off. Also, by following a specific author, users can be notified as to when that author puts out a new comic, or is working on a new series </p>
+</p>
+<p>
+<br>
+It comic pages individually should also state whether the comics are ‘’in print’’ (meaning they are still being made) or if they are no longer ‘’in print’’. This should prepare and help comic book readers to know if their regular shop will be able to order it in, or if they will need to hunt especially for the rare comics.
+</p>
+</p>
+<br>
+The website will also include a coming soon tab, to show which comics that the user has been reading, will be coming out soon, which will allow users to prepare, pre order, or by in store new comics from the ones they find on the map locally. Doing this will add business and relativity to use the project regularly as opposed to once off. Also, by following a specific author, users can be notified as to when that author puts out a new comic, or is working on a new series </p>
 <h2> Tools & Technologies </h2>
 <p> If this were to be done on a website and an app that were linked together, the tools required would be the internet, and a computer containing a processor, memory, and a hard drive, capable of coding and hosting the data stored on a server which would have all the info on it. Being able to link the website and the app together in sync would also require some form of hardware to make them both be online and updating each other simultaneously. </p>
 <h2> Skills required </h2>
